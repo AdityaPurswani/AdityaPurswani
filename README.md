@@ -62,4 +62,13 @@ Here are some ideas to get you started:-->
   <img width=390 src="https://github-readme-stats-eight-theta.vercel.app/api?username=AdityaPurswani&show_icons=true&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&include_all_commits=true&count_private=true"/>
 </div>
 <hr>
+
+### 🐍 &nbsp; That's How Commits move ...
+
+<div align="center">
+  <a href="https://github.com/Adityakanoi2001/">
+  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+<hr>
 <h3 align='center'>Got an idea and wanna collaborate? Awesome. Lets connect 🤝</h3>
