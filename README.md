@@ -47,7 +47,7 @@ Here are some ideas to get you started:-->
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,javascript,c,python,linux" />
-    <img src="https://skillicons.dev/icons?i=html,css,react,mysql,mongo,firebase,git,vscode,github,opencv,pytorch,LLM" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,react,mysql,mongo,firebase,git,vscode,github,opencv,pytorch" /><br>
 </div>
 <hr/>
 
