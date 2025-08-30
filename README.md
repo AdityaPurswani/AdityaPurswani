@@ -77,12 +77,12 @@ Feel free to reach out if you want to **collaborate** or discuss **exciting proj
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com?user=AdityaPurswani&theme=react&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5" alt="streakstats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=AdityaPurswani&count_private=true&show_icons=true&theme=cobalt&rank_icon=github&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5"" alt="readme stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com?user=AdityaPurswani&theme=react" alt="streakstats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=AdityaPurswani&count_private=true&show_icons=true&theme=react&rank_icon=github" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=AdityaPurswani&hide=HTML&langs_count=8&layout=compact&theme=cobalt&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5"" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=AdityaPurswani&hide=HTML&langs_count=8&layout=compact&theme=react&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
     <br/>
-  <img width=390 src="https://github-readme-stats-eight-theta.vercel.app/api?username=AdityaPurswani&show_icons=true&theme=cobalt&border_radius=10&size_weight=0.5&count_weight=0.5&include_all_commits=true&count_private=true&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5""/>
+  <img width=390 src="https://github-readme-stats-eight-theta.vercel.app/api?username=AdityaPurswani&show_icons=true&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&include_all_commits=true&count_private=true"/>
 </div>
 <hr>
 
